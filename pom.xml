@@ -54,4 +54,10 @@
 
 		</plugins>
 	</build>
+
+	<scm>
+		<!-- <connection>scm:git:git://github.com/vitorsouza/EngeSoft.git</connection> -->
+		<developerConnection>scm:git:d:/dev/projects/speeltuin/projects/neo4j-test/neo4j</developerConnection>
+		<!-- <url>https://github.com/vitorsouza/EngeSoft</url> -->
+	</scm>
 </project>
