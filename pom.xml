@@ -57,7 +57,7 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/pstalenhoef/test.git</connection>
-		<developerConnection>scm:git:d:/dev/projects/speeltuin/projects/neo4j-test/neo4j</developerConnection>
+		<developerConnection>scm:git:ssh://github.com/pstalenhoef/test.git</developerConnection>
 		<url>https://github.com/pstalenhoef/test.git</url>
 	</scm>
 </project>
